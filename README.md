@@ -1,0 +1,1 @@
+# CsabaDu.DynamicTestData.Lite.MSTest
